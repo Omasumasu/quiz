@@ -1,0 +1,27 @@
+{
+  "name": "question",
+  "version": "1.0.0",
+  "description": "sample_quiz",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Omasumasu/question.git"
+  },
+  "author": "Hikaru Masuta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Omasumasu/question/issues"
+  },
+  "homepage": "https://github.com/Omasumasu/question#readme",
+  "devDependencies": {
+    "config": "^3.0.1",
+    "express": "^4.16.4",
+    "mysql": "ruiquelhas/mysql#feature/caching-sha2-password"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3"
+  }
+}

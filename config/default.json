@@ -1,0 +1,11 @@
+{
+    "db": {
+        "master": {
+            "host": "127.0.0.1",
+            "user": "root",
+            "password": "",
+            "database": "sample"
+        }
+    },
+    "x_api_key": "xyHjsky"
+}
